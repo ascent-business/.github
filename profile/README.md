@@ -1,6 +1,7 @@
 # Welcome to Ascent Business Solutions' Version Control System!
 You are viewing this instance as a public user, please switch to the Member version if you are an employee of Ascent Business Solutions Ltd.
 
+![image](https://github.com/ascent-business/.github/assets/119596348/e5bcc3ad-53f5-451e-a6e3-1c937555baba)
 
 
 
